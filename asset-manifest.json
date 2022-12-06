@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/eduardoweglinsynchrotechnologies/devportalrrdv6/static/css/main.1bcaf2a6.chunk.css",
-    "main.js": "/eduardoweglinsynchrotechnologies/devportalrrdv6/static/js/main.60736fda.chunk.js",
-    "main.js.map": "/eduardoweglinsynchrotechnologies/devportalrrdv6/static/js/main.60736fda.chunk.js.map",
-    "runtime-main.js": "/eduardoweglinsynchrotechnologies/devportalrrdv6/static/js/runtime-main.aba48f55.js",
-    "runtime-main.js.map": "/eduardoweglinsynchrotechnologies/devportalrrdv6/static/js/runtime-main.aba48f55.js.map",
-    "static/js/2.79c418b5.chunk.js": "/eduardoweglinsynchrotechnologies/devportalrrdv6/static/js/2.79c418b5.chunk.js",
-    "static/js/2.79c418b5.chunk.js.map": "/eduardoweglinsynchrotechnologies/devportalrrdv6/static/js/2.79c418b5.chunk.js.map",
-    "static/js/3.87876f2b.chunk.js": "/eduardoweglinsynchrotechnologies/devportalrrdv6/static/js/3.87876f2b.chunk.js",
-    "static/js/3.87876f2b.chunk.js.map": "/eduardoweglinsynchrotechnologies/devportalrrdv6/static/js/3.87876f2b.chunk.js.map",
-    "index.html": "/eduardoweglinsynchrotechnologies/devportalrrdv6/index.html",
-    "static/css/main.1bcaf2a6.chunk.css.map": "/eduardoweglinsynchrotechnologies/devportalrrdv6/static/css/main.1bcaf2a6.chunk.css.map",
-    "static/js/2.79c418b5.chunk.js.LICENSE.txt": "/eduardoweglinsynchrotechnologies/devportalrrdv6/static/js/2.79c418b5.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/eduardoweglinsynchrotechnologies/devportalrrdv6/static/media/logo.6ce24c58.svg"
+    "main.css": "/devportalrrdv6/static/css/main.1bcaf2a6.chunk.css",
+    "main.js": "/devportalrrdv6/static/js/main.60736fda.chunk.js",
+    "main.js.map": "/devportalrrdv6/static/js/main.60736fda.chunk.js.map",
+    "runtime-main.js": "/devportalrrdv6/static/js/runtime-main.aba48f55.js",
+    "runtime-main.js.map": "/devportalrrdv6/static/js/runtime-main.aba48f55.js.map",
+    "static/js/2.79c418b5.chunk.js": "/devportalrrdv6/static/js/2.79c418b5.chunk.js",
+    "static/js/2.79c418b5.chunk.js.map": "/devportalrrdv6/static/js/2.79c418b5.chunk.js.map",
+    "static/js/3.87876f2b.chunk.js": "/devportalrrdv6/static/js/3.87876f2b.chunk.js",
+    "static/js/3.87876f2b.chunk.js.map": "/devportalrrdv6/static/js/3.87876f2b.chunk.js.map",
+    "index.html": "/devportalrrdv6/index.html",
+    "static/css/main.1bcaf2a6.chunk.css.map": "/devportalrrdv6/static/css/main.1bcaf2a6.chunk.css.map",
+    "static/js/2.79c418b5.chunk.js.LICENSE.txt": "/devportalrrdv6/static/js/2.79c418b5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/devportalrrdv6/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.aba48f55.js",
